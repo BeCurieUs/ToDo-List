@@ -7,14 +7,12 @@ class App extends Component {
     mainInput : "",
   }
 
-
-
   render() {
     return (
       <div className="App">
         <header className="App-header">
           <ul>
-            
+
           </ul>
         </header>
       </div>
