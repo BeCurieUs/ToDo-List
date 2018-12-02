@@ -6,10 +6,16 @@ class App extends Component {
     mainList : [],
     mainInput : "",
   }
+
+
+
   render() {
     return (
       <div className="App">
         <header className="App-header">
+          <ul>
+            
+          </ul>
         </header>
       </div>
     );
